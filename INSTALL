@@ -1,0 +1,9 @@
+Building Micoin
+
+See doc/readme-qt.rst for instructions on building Micoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Micoin.
+
+See doc/build-*.txt for instructions on building micoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Micoin.
